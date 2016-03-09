@@ -4,7 +4,7 @@ Make sure you have written permission before using it on any web application.
 This script is licensed under the MIT license.
 
 If you would like to make this script better https://github.com/rashidx/PyCrack
-''
+'''
 
 
 import urllib
