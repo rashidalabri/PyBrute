@@ -12,7 +12,7 @@ import urllib2
 
 def welcome_msg():
     print '|-------------------------------------------------------|'
-    print '|          W E L C O M E   T O   P Y C R A C K          |'
+    print '|          W E L C O M E   T O   P Y B R U T E          |'
     print '|                   created by rashidx                  |'
     print '|-------------------------------------------------------|'
 
